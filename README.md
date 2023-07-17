@@ -1,6 +1,6 @@
-## Logseq miA theme
+## Logseq miA reImagined theme
 
-**miA** is a [Logseq](https://github.com/logseq/logseq) theme family inspired by the styling and typography used by [macOS](https://www.apple.com/macos/monterey/) and [iA Writer](https://ia.net/writer). All of the **miA** themes share a common aesthetic and support light and dark mode (based on the selection in Logseq's *Settings*). Priority is placed on providing a clean editing and reading experience in a familiar, productive environment.
+**miA reImagined** is a reimagined miA [Logseq](https://github.com/logseq/logseq) theme that uses different color pallets to create an appealing visual experience. We keep all the great things from the **miA** theme to ensure priority is placed on providing a clean editing and reading experience in a familiar, productive environment.
 
 ![miA light](./screenshots/miA-light.png)
 
@@ -19,11 +19,7 @@
 
 ## Installation
 
-**miA** is available on the Logseq marketplace. To see the marketplace, choose *Plugins* from Logseq's main menu. Once **miA** is installed, choose *Themes* from the main menu, then select the desired theme variation.
-
-If you don’t see Plugins on the main menu, you will need to enable plug-ins: go to Logseq *Settings* from the main menu, then the *Advanced* section, and enable the Plug-in system. You will then need to restart Logseq.
-
-If you don’t want to use the marketplace, you can add **one** of the following lines to the start of your Logseq `custom.css` file (you can access this file from *Settings*).
+You can add **one** of the following lines to the start of your Logseq `custom.css` file (you can access this file from *Settings*).
 
 ``` css
 @import url('https://playerofgames.github.io/logseq-mia-theme/mia_mono.css');
@@ -113,6 +109,8 @@ For the Mono, Duo and Quattro themes, the System default font is used for page t
 [IBM "Plex" fonts](https://www.ibm.com/plex/): Copyright © 2017 IBM Corp. with Reserved Font Name "Plex". Licensed under the SIL Open Font License 1.1.
 
 [rcvd](https://github.com/rcvd) for their Logseq Quattro theme, from which I took inspiration to make the first **miA** theme.
+
+[playerofgames](https://github.com/playerofgames/logseq-mia-theme) for their **miA** theme.
 
 ## Licence
 
