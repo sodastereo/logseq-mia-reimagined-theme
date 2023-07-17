@@ -4,7 +4,7 @@
 /* Colours */
 .light, .light-theme, .white-theme, html[data-theme=light] {
 
-	--accent-color: #0b82b9;
+	--accent-color: #c6d28c;
 	--accent-color-rgb: 11, 130, 185;
 	--accent-dark-color: #3982C2;
 	--accent-bright-color: #00BFFF;
@@ -28,7 +28,7 @@
 	--ls-page-inline-code-bg-color: #EAEAEA;
 	--ls-a-chosen-bg: #EAEAEA;
 
-	--ls-link-text-color: #0b82b9;
+	--ls-link-text-color: #c6d28c;
 	--ls-link-text-hover-color: #1a1a1a;
 	--ls-link-ref-text-color: #747474;
 	--ls-link-ref-text-hover-color: #1a1a1a;
